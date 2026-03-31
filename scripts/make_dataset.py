@@ -11,8 +11,8 @@ TICKERS = [
     "NVDA", "TSLA", "JPM", "XOM", "UNH"
 ]
 
-START_DATE = "2018-01-01"
-END_DATE = "2024-01-01"
+START_DATE = "2024-01-01"
+END_DATE = "2026-03-29"
 
 all_data = []
 
